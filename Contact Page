@@ -1,0 +1,46 @@
+
+<html lang="en">
+
+<head>
+    <title>Contact - Brandon</title>
+    <meta charset="utf-8">
+</head>
+
+<body>
+
+<header> 
+  <h1>Brandon Portfolio</h1>
+  <img src="{Removed for time being}" alt="Brandon Kuffner" width="500" height="500">
+</header>
+
+<nav>
+  <ul>
+    <li><a href="index.html">Home</a></li>
+    <li><a href="contact.html">Contact</a></li>
+    <li><a href="about.html">About</a></li>
+    <li><a href="">Extra</a></li>
+  </ul>
+</nav>
+
+
+<!--
+Purpose: Contact Information
+-->
+
+<main>
+  <div id="contact-info">
+    <h2>Contact Information</h2>
+    <p>If you want to get in touch with me, you can email me at <a href="mailto:Bkuffner001@my.wilmu.edu">Bkuffner001@my.wilmu.edu</a>.</p>
+    <h3>Location:</h3>
+    <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12256.211067711783!2d-75.5465918!3d39.8282346!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c6fb5902ef9dbb%3A0x60e5e35ddac39299!2sWilmington%20University%20Brandywine%20Campus!5e0!3m2!1sen!2sus!4v1690066519759!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+  </div>
+</main>
+
+<footer>
+  <p>Contact: Bkuffner001@my.wilmu.edu</p>
+  <p>&copy; 2023. All Rights Reserved.</p>
+</footer>
+
+</body>
+
+</html>
