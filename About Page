@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+<head>
+    <title>About Me - Brandon </title>
+    <meta charset="utf-8">
+</head>
+
+<body>
+
+<header> 
+  <h1>Brandon Portfolio</h1>
+  <img src="https://lh3.googleusercontent.com/pw/AIL4fc9oQJrKh4CrG5gLia5yzTSdNdNqvQmS4BFTUaGDAFG9o51bL2lF7xdC7i99hFA7BRTv2_punfLsostuWDD4yUcOMyrrBgVh_i_Qu5HAqUMtx6_Cl9P-pdZ3BN_Wn10eN_Vgu6A0kiQZtgG4J92_iNvaPHy_SU1WDJbXVoB5L-hOH5ibUDP2HX9z6Lx9q2xkF3auIi4gXzw2b9zPm_FXl0jFj5gRER2T2TRvLvT9Culq0u9-o9GY6r80j1SLrVDPZC6pY3DrJvxRaTgQZiyNoKjZTYZ-8tIfBLPyf5Vn2QXXPKvmFuMGeri4cgBCpK7yFDYfcGC-LQMOTEC0ofvGnuhBZTw00C1sQ4TVD5BQJDDDFvZ_rx_-juQDaoxRUxaTqu3FehkBtDyIRTKZ5jtIpGYFvWCqeepurr6nzo2zVq9g4w84gHM7cNg225Rcls-VpEQXwoamFcbvEj6ZDBcH9HtXicqnUag5uWlm-Jt6yk0YpPgO5rPghWXnGk-zxvCC4UW1QLQUTOSAX5r05RMLFjeUg-pty6yI0e78r18NL8VPBH_e_vO--ekT0OJTTxjYJzbeDcAlrhVli4zffzyx2E2Aro0cZPi_3movbeBi32MLBm-lD0YersDvoffS72BtaOXN5BGIXLEDyKjiT_GMeJBuMvJHj_a4TVHdpc4NUQauqoH0ViFxeMYdMxXKhft6bg5pCx6D6ToWQBMss5Y4fbumonPZwstoScAiwCiom5BsauIDztjvhz1ZOuGRrJxkZEJRMAdlpJA3y6bQO7Koy8Lgl2zMe5GC0yzqDLwuIVrn1F2V14_vI-ntiNu4dpJNb23zV27Nd9Pw_bUKeOhH0YtG2TXQ97E0UVPwQam07FcnCWs8Ziq0Y6ByaLFUAjfrmso4A4HWP8FSbRJaKxjv180xiRYC6urtVJuz9pyStZFUJ6Z2kLUuhR4BiT7jdVz5JLnurTI9-Tg9vhQpcLYYwSTmFgaGl_U_fd4H1HofeX-oyH4ZNGfUd5asqvI3136QCD0=w500-h500-s-no?authuser=0" alt="Brandon Kuffner" width="500" height="500">
+</header>
+
+<nav>
+  <ul>
+    <li><a href="index.html">Home</a></li>
+    <li><a href="contact.html">Contact</a></li>
+    <li><a href="about.html">About</a></li>
+    <li><a href="">Extra</a></li>
+  </ul>
+</nav>
+
+
+<!--
+Purpose: About Me
+-->
+
+<main>
+  <div id="about-me">
+    <h2>About Me</h2>
+    <p>Hello! I am Brandon, a Junior in college who is attending Wilmington University.</p>
+    <h3>Interests:</h3>
+    <ul>
+      <li>I have a desired interest to become a DevOps engineer</li>
+      <li>Loves learning about Cloud Computing</li>
+      <li>Machine Learning is another path I have dove into</li>
+      <li>Gaming is one of my biggest hobbies</li>
+      <li>Playing hockey always was fun!</li>
+    </ul>
+  </div>
+</main>
+
+<footer>
+  <p>Contact: Bkuffner001@my.wilmu.edu</p>
+  <p>&copy; 2023. All Rights Reserved.</p>
+</footer>
+
+</body>
+
+</html>
